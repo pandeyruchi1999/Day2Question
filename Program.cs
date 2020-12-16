@@ -39,6 +39,7 @@ namespace PrintPrimeNumber
                     Console.Write("{0} ", num);
             }
             Console.Write("\n");
+            Console.Write("Roshan Zameer Ali");
         
         Console.ReadLine();
         }
